@@ -2,6 +2,6 @@
 
 Carnegie Mellon University
 
-Jasmin Chiang (AECM) <br/>
-Serah Kallerackal (AECM) <br/>
-Matthew Takara (CEE)
+Jasmin Chiang (MS, AECM) <br/>
+Serah Kallerackal (MS, AECM) <br/>
+Matthew Takara (MS, CEE)
