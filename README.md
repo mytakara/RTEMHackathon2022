@@ -2,6 +2,6 @@
 
 Carnegie Mellon University
 
-$Jasmin Chiang (AECM) \newline$
-$Serah Kallerackal (AECM) \newline$
-$Matthew Takara (CEE)$
+Jasmin Chiang (AECM) <br/>
+Serah Kallerackal (AECM) <br/>
+Matthew Takara (CEE)
